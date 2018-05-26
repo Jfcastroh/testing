@@ -1,0 +1,2 @@
+class Itemmodel < ApplicationRecord
+end
